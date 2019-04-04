@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: "Calculate simple intrest by sohan ",
+    title: "Calculate simple intrest",
     home: SIForm(),
     theme: ThemeData(
       brightness: Brightness.dark,
